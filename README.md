@@ -110,3 +110,17 @@ Manual annotations in Section 13 reflect GPT-assisted interpretation of top mark
 - This pipeline was developed for **8 µm bin** Visium HD data. SpotSweeper neighbor count (`n_neighbors = 12`) may need tuning for other bin sizes or tissue types.
 - `dplyr` must be loaded before any package that masks `summarise` (e.g. `plyr`). The script uses explicit `plyr::mapvalues()` calls to avoid conflicts.
 - The `colorRampPalette` fallback in Section 12 handles datasets with more than 12 unique SingleR labels gracefully.
+
+- The main pipeline was merged with tools and the original scripts are in the subfolder.
+
+## Special Thanks
+
+A very special thanks to [Dr. Katarzyna Tyc](https://github.com/katarzynatyc) for mentoring me and supporting me during the creation of this pipeline.
+
+A thank you to my collaborators on the T.Y.C. Genomics Team
+- Francisco Meersohm
+- Maxwell Moberg
+- Sameen 
+
+Thank you to my wife Baeleigh for keeping me sane during debugging <3
+
