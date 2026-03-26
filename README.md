@@ -1,4 +1,4 @@
-# Spatial Transcriptomics Summer Research 2025
+# Application of SpotSweeper Dynamic QC in a Spatial Transcriptomic Pipeline of Visium HD Data
 
 **Author:** Andrew Sanford, sanfordac2@vcu.edu/sanford.andrew.520@gmail.com  
 **Institution:** Virginia Commonwealth University  
